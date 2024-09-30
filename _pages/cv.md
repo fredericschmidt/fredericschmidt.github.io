@@ -11,35 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Habilitation in Planetary Science, Université Paris-Saclay, 2014 (VOLATILES EXCHANGES BETWEEN SURFACE AND ATMOSPHERE ON MARS)
+* * Ph.D in Planetary Science, Grenoble Alpes University, 2007 (CLASSIFICATION OF THE MARTIAN SURFACE USING OMEGA HYPERSPECTRAL IMAGING. STUDY OF THE CO2 AND H2O SEASONNAL DEPOSITS)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since 2018: Professor of Planetary Science
+  * GEOPS, Université Paris-Saclay, Orsay, France
+  * CNU Section 35
+  * Head of Master in Planetary Science and Space Exploration
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* 2009-2018: Associate Professor of Planetary Science
+  * GEOPS, Université Paris-Saclay, Orsay, France
+  * CNU Section 35
+
+* 2008-2009: Post-doc
+  * ESA, ESAC, Madrid, Spain
+
+* 2004-2007: PhD
+  * IPAG, Grenoble Alpes University, France (ex LPG, Université Joseph Fourier)
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Planetary Science
+  * Geomorphology
+  * Ice
+* Remote sensing
+  * Hyperspectral imaging
+  * Lidar
+  * Imagery
+* Numerical methods
+  * Machine learning (unmixing, blind source separation...)
+  * Deep Learning
 
 Publications
 ======
@@ -61,4 +66,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently scientific head of the Planetary Surface Pole (CNES/CNRS-INSU)
