@@ -1,11 +1,11 @@
 ---
 title: "Topography of exoplanet"
-excerpt: "Cover of Nature Geoscience - July 2024<br/><img src='/images/Exotopo_Video_2.mov'>"
+excerpt: "Cover of Nature Geoscience - July 2024<br/><img src='/images/Exotopo.png'>"
 collection: portfolio
 ---
 
 
-The discovery of exoplanets outside our Solar System has profoundly changed our view of our place in the universe. Thanks to technological developments, it is now possible to obtain spectroscopic information about these distant worlds. One of the major questions concerns the habitability of these exoplanets, and geologists must take part in this debate. To confirm that an exoplanet harbours a form of life similar to Earth, several criteria can be proposed, such as the presence of methane and O2 (or O3) on the same planet. Particular attention needs to be paid to detecting such a system, so as not to confuse an exolune with an O2 (or O3) atmosphere orbiting an exoplanet containing methane. I have proposed a method for eliminating false-positive candidates and shown that this approach will be applicable to future observational spectra with a realistic signal-to-noise ratio. This research programme aims to integrate geological knowledge into the debate on the habitability of exoplanets, which is too often reduced to the presence of liquid water. 
+The discovery of exoplanets outside our Solar System has profoundly changed our view of our place in the universe. Thanks to technological developments, it is now possible to obtain spectroscopic information about these distant worlds. One of the major questions concerns the habitability of these exoplanets, and geologists must take part in this debate.
 
 On the basis of our statistical analyses of the various planetary bodies in the Solar System, it would appear that the multifractal model can be used to describe the roughness of these bodies, in all their diversity.
 
@@ -26,3 +26,4 @@ Public outreach in French:
 [News INSU](http://www.insu.cnrs.fr/node/9715)
 
 
+# /images/Exotopo_Video_2.mov
