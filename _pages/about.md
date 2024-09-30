@@ -20,5 +20,6 @@ For more info
 Special thanks
 ======
 This web page has been [fork from this repository](https://github.com/academicpages/academicpages.github.io).
-Special thanks to Milos Rajkovic [for his amazing web-art](https://thereart.ro/milos-rajkovic-sholim/)
+
+Special thanks to Milos Rajkovic [for his amazing web-art](https://thereart.ro/milos-rajkovic-sholim/).
 

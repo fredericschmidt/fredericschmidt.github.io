@@ -1,10 +1,8 @@
 ---
-permalink: /markdown/
-title: "Markdown"
+title: "Supervision"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /supervision.html
 ---
 
 ## Locations of key files/directories
