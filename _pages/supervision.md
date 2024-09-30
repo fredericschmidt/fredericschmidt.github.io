@@ -1,11 +1,29 @@
 ---
 layout: archive
-title: "supervision"
+title: "Supervision"
 permalink: /supervision/
 author_profile: true
 redirect_from: 
   - /supervision.html
 ---
+
+
+## Post-doctorate :
+
+* Zongyu Zhang (Octobre 2023 - Avril 2025) Etude des propriétés de surface radar de Mars à l'aide de la mission Zhurong, chercheur invité-doctorant
+
+* Guillaume Cruz Mermy (Novembre 2022 - Décembre 2022) Glaces de Mars et Europe
+
+* Elodie Lesage (Décembre 2020 - Février 2021) Cryovolcanisme
+
+* Ines Belgacem (Mars 2020 - Juin 2020) Traitement des données PFS
+
+* François Landais (Décembre 2017 - Janvier 2018) Topographie des exoplanètes
+
+* François Andrieu (Octobre 2015 - Octobre 2016) Caractérisation des surfaces glacées de Mars par imagerie hyperspectrale : inversion du transfert radiatif, 3 publications
+
+* Jennifer Fernando (Octobre 2014 - Septembre 2015) post-doc/demi-ATER : photométrie de Mars
+
 
 ## PhD students
 
@@ -17,23 +35,23 @@ redirect_from:
 
 * Cyril Mergny (Octobre 2021 - Octobre 2024) encadrant : F. Schmidt (100%), Simulation des glaces dans le Système Solaire
 
-* Guillaume Cruz Mermy (Octobre 2019 - Octobre 2022) soutenance le 9 Décembre 2022, encadrant : F. Schmidt (100%), Microphysique des glaces du système solaire, 2 publications https://theses.hal.science/tel-03953094
+* Guillaume Cruz Mermy (Octobre 2019 - Octobre 2022) soutenance le 9 Décembre 2022, encadrant : F. Schmidt (100%), [Microphysique des glaces du système solaire](https://theses.hal.science/tel-03953094)
 
-* Elodie Lesage (Novembre 2017 - Novembre 2020) soutenance le 25 Novembre 2020, encadrant : F. Schmidt (50%) et H. Massol, (50%), Cryovolcanisme sur Europe, 2 publications https://tel.archives-ouvertes.fr/tel-03150075
+* Elodie Lesage (Novembre 2017 - Novembre 2020) soutenance le 25 Novembre 2020, encadrant : F. Schmidt (50%) et H. Massol, (50%), [Cryovolcanisme sur Europe](https://tel.archives-ouvertes.fr/tel-03150075)
 
-* Inès Belgacem (Novembre 2016 - Novembre 2019) soutenance le 15 Novembre 2019, encadrant : F. Schmidt (50%) et G. Jonniaux, AIRBUS, (50%), Etude photométrique des lunes glacées de Jupiter, 2 publications https://tel.archives-ouvertes.fr/tel-02421378
+* Inès Belgacem (Novembre 2016 - Novembre 2019) soutenance le 15 Novembre 2019, encadrant : F. Schmidt (50%) et G. Jonniaux, AIRBUS, (50%), [Etude photométrique des lunes glacées de Jupiter](https://tel.archives-ouvertes.fr/tel-02421378)
 
-* Alina Meresescu (Octobre 2015 - Octobre 2018) soutenance le 25 Septembre 2018 encadrant : F. Schmidt (50%) et M. Kowalski (50%), Inverse Problems of Deconvolution Applied in the Fields of Geosciences and Planetology, 1 publication, 1 publication en préparation https://tel.archives-ouvertes.fr/tel-01982218
+* Alina Meresescu (Octobre 2015 - Octobre 2018) soutenance le 25 Septembre 2018 encadrant : F. Schmidt (50%) et M. Kowalski (50%), [Inverse Problems of Deconvolution Applied in the Fields of Geosciences and Planetology](https://tel.archives-ouvertes.fr/tel-01982218)
 
-* François Landais (Octobre 2014 - Octobre 2017) soutenance le 24 Novembre 2017 (encadrement F. Schmidt), Lois d’échelles et propriétés statistiques multifractales de la topographie des planètes, 3 publications https://tel.archives-ouvertes.fr/tel-01699851
+* François Landais (Octobre 2014 - Octobre 2017) soutenance le 24 Novembre 2017 (encadrement F. Schmidt), [Lois d’échelles et propriétés statistiques multifractales de la topographie des planètes](https://tel.archives-ouvertes.fr/tel-01699851)
 
-* François Andrieu (Octobre 2012 - Octobre 2015) soutenance le 11 Décembre 2015 (encadrement F. Schmidt), Caractérisation des surfaces glacées de Mars par imagerie hyperspectrale : inversion du transfert radiatif, 3 publications https://tel.archives-ouvertes.fr/tel-01328824
+* François Andrieu (Octobre 2012 - Octobre 2015) soutenance le 11 Décembre 2015 (encadrement F. Schmidt), [Caractérisation des surfaces glacées de Mars par imagerie hyperspectrale : inversion du transfert radiatif](https://tel.archives-ouvertes.fr/tel-01328824)
 
-* Maxime Legendre (Janvier 2012 - Janvier 2015) soutenance le mercredi 22 Avril 2015 (co-encadrement F. Schmidt à 30% avec S. Mousssaoui (30%) et J. Idier (40%)), Accélération algorithmique et matérielle des méthodes d’estimation de cartes d’abondances en imagerie hyperspectrale, 3 publications dont 1 en premier auteur https://tel.archives-ouvertes.fr/tel-01360464
+* Maxime Legendre (Janvier 2012 - Janvier 2015) soutenance le mercredi 22 Avril 2015 (co-encadrement F. Schmidt à 30% avec S. Mousssaoui (30%) et J. Idier (40%)), [Accélération algorithmique et matérielle des méthodes d’estimation de cartes d’abondances en imagerie hyperspectrale](https://tel.archives-ouvertes.fr/tel-01360464)
 
-* Jennifer Fernando (Octobre 2011 - Octobre 2014) soutenance le 4 Novembre 2014 (encadrement F. Schmidt), Caractérisation des propriétés physiques de la surface de Mars à partir de mesures spectro-photométriques orbitales, 3 publications dont 2 en premier auteur, https://tel.archives-ouvertes.fr/tel-01152136
+* Jennifer Fernando (Octobre 2011 - Octobre 2014) soutenance le 4 Novembre 2014 (encadrement F. Schmidt), [Caractérisation des propriétés physiques de la surface de Mars à partir de mesures spectro-photométriques orbitales](https://tel.archives-ouvertes.fr/tel-01152136)
 
-* Irina Shatalina (invité à IDES Avril-Août 2012) : Signal  Treatment  for  Planetary  Fourier  Spectrometer, Doctorante du Politecnico Di Milano, 2 publications dont 1 en premier auteur
+* Irina Shatalina (invité à IDES Avril-Août 2012) : Signal  Treatment  for  Planetary  Fourier  Spectrometer, Doctorante du Politecnico Di Milano
 
 
 
@@ -54,6 +72,8 @@ redirect_from:
 * Elodie Lesage (Mars-Juin 2017) : Etude du cryovolcanisme sur les satellites de glace, M2 STePE Planétologie, UPSAY (co-encadrement Hélène Massol)
 
 * François Landais (Mars-June 2014) : Statistique de la topographie, M2 Télédétection, UPMC
+
+* Luca Capriotti (Septembre-Décembre 2012) : GPU Implementation of OMEGA unmixing, ESA, ESAC, Madrid 
 
 * François Andrieu (Mars-June 2012) : Spectroscopie des glaces Martiennes, M2 Télédétection, UPMC
 
