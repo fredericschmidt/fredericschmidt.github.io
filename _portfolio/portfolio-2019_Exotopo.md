@@ -1,6 +1,6 @@
 ---
 title: "Topography of exoplanet"
-excerpt: "Cover of Nature Geoscience - July 2024<br/><img src='/images/Exotopo.png'>"
+excerpt: "Synthetic realistic topography - January 2019<br/><img src='/images/Exotopo.png'>"
 collection: portfolio
 ---
 
