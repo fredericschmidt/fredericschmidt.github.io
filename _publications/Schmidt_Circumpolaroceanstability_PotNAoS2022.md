@@ -7,7 +7,7 @@ excerpt: 'About the stability of a potential Martian ocean'
 date: 2022-02-18
 venue: 'Proceedings of the National Academy of Sciences'
 #slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: '[http://academicpages.github.io/files/paper3.pdf](http://dx.doi.org/10.1073/pnas.2112930118)'
+paperurl: 'http://dx.doi.org/10.1073/pnas.2112930118'
 citation: '15. Schmidt, F.; Way, M. J.; Costard, F.; Bouley, S.; Séjourné, A. & Aleinov, I. Circumpolar ocean stability on Mars 3 Gy ago, Proceedings of the National Academy of Sciences, 2022, 119, e2112930118,'
 ---
 
