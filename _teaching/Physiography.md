@@ -4,7 +4,6 @@ collection: teaching
 type: "Master"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Université Paris-Saclay"
-date: since 2009
 ---
 
 
