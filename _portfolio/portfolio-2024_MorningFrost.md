@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 
-![Picture](/images/NatureGeoscience_July2024.png){ width="800" height="600" style="display: block; margin: 0 auto" }
+![](/images/NatureGeoscience_July2024_frost.jpg)
 
 Our study reports the existence of large deposits of transient morning frost at the top of volcanoes in a region of Mars called Tharsis, which includes the volcanoes Olympus, Arsia and Ascraeus Montes, and Ceraunius Tholus. These were detected through analysis of high-resolution colour images gathered by the European Space Agency’s Exomars Trace Gas Orbiter (TGO) (ESA) probe. This discovery was confirmed by independent observations made by the ESA’s Mars Express probe and the NOMAD spectrometer onboard the TGO.
 
