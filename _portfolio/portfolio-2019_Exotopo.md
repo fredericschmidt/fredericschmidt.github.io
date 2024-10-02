@@ -4,8 +4,8 @@ excerpt: "Synthetic realistic topography - January 2019<br/><img src='/images/Ex
 collection: portfolio
 ---
 
-<video autoplay loop muted playsinline>
-  <source src="/images/Exotopo_Video_2.mp4" type="video/mp4">
+<video autoplay loop muted playsinline center>
+  <source src="/images/Exotopo_Video_2.mp4" type="video/mp4" width=400>
 </video>
 
 
@@ -16,7 +16,7 @@ On the basis of our statistical analyses of the various planetary bodies in the 
 My team has naturally proposed a method for generating realistic synthetic topographies for solid exoplanetary bodies, which can also be used for terrestrial palaeo-topographies.The next generation of telescopes should be able to see the indirect effects of the topography of exoplanets.
 
 
-[To fly over an exoplanet in 3D:](https://data.ipsl.fr/exotopo/)
+[To fly over an exoplanet in 3D](https://data.ipsl.fr/exotopo/)
 
 Reference : 
 Landais, F.; Schmidt, F. & Lovejoy, S. Universal multifractal Martian topography Nonlinear Processes in Geophysics, Copernicus, 2015, 22, 713-722, [http://dx.doi.org/10.5194/npg-22-713-2015](http://dx.doi.org/10.5194/npg-22-713-2015)
