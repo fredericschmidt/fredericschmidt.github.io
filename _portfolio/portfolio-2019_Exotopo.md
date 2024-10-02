@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <video auto-play="true" loop="loop" muted="muted" plays-inline="true">
-  <source src="/images/Exotopo_Video_2.mov" type="video/mp4">
+  <source src="/images/Exotopo_Video_2.mp4" type="video/mp4">
 </video>
 
 
