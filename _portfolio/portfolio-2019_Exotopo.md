@@ -4,7 +4,7 @@ excerpt: "Synthetic realistic topography - January 2019<br/><img src='/images/Ex
 collection: portfolio
 ---
 
-<video auto-play="true" loop="loop" muted="muted" plays-inline="true">
+<video autoplay loop muted playsinline>
   <source src="/images/Exotopo_Video_2.mp4" type="video/mp4">
 </video>
 
