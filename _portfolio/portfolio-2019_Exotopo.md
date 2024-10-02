@@ -4,6 +4,10 @@ excerpt: "Synthetic realistic topography - January 2019<br/><img src='/images/Ex
 collection: portfolio
 ---
 
+<video auto-play="true" loop="loop" muted="muted" plays-inline="true">
+  <source src="/images/Exotopo_Video_2.mov" type="video/mp4">
+</video>
+
 
 The discovery of exoplanets outside our Solar System has profoundly changed our view of our place in the universe. Thanks to technological developments, it is now possible to obtain spectroscopic information about these distant worlds. One of the major questions concerns the habitability of these exoplanets, and geologists must take part in this debate.
 
