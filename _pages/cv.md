@@ -16,6 +16,8 @@ Education
 
 Work experience
 ======
+* In 2021-2026, Junior member of the Institut Universitaire de France (IUF)
+
 * Since 2018: Professor of Planetary Science
   * GEOPS, Université Paris-Saclay, Orsay, France
   * CNU Section 35
