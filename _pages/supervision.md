@@ -33,7 +33,7 @@ redirect_from:
 
 * Léonard Martinez (Octobre 2022 - Octobre 2025) encadrant : F. Schmidt (50%) et F. Andrieu (50%), Détection et caractérisation des cratères dans le Système Solaire
 
-* Cyril Mergny (Octobre 2021 - Octobre 2024) encadrant : F. Schmidt (100%), Simulation des glaces dans le Système Solaire
+* Cyril Mergny (Octobre 2021 - Octobre 2024) encadrant : F. Schmidt (100%), [Simulation des glaces dans le Système Solaire](https://hal.science/tel-04707017)
 
 * Guillaume Cruz Mermy (Octobre 2019 - Octobre 2022) soutenance le 9 Décembre 2022, encadrant : F. Schmidt (100%), [Microphysique des glaces du système solaire](https://theses.hal.science/tel-03953094)
 
@@ -52,6 +52,14 @@ redirect_from:
 * Jennifer Fernando (Octobre 2011 - Octobre 2014) soutenance le 4 Novembre 2014 (encadrement F. Schmidt), [Caractérisation des propriétés physiques de la surface de Mars à partir de mesures spectro-photométriques orbitales](https://tel.archives-ouvertes.fr/tel-01152136)
 
 * Irina Shatalina (invité à IDES Avril-Août 2012) : Signal  Treatment  for  Planetary  Fourier  Spectrometer, Doctorante du Politecnico Di Milano
+
+
+## post-Master students
+
+* Hugo Lancery (Octobre-Décembre 2024) : Photométrie de la Lune
+
+* Luca Capriotti (Septembre-Décembre 2012) : GPU Implementation of OMEGA unmixing, ESA, ESAC, Madrid 
+
 
 
 
