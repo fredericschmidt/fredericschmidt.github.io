@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Under construction"
+title: "Personal Webpage"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,11 +8,23 @@ redirect_from:
 ---
 
 
-Public commmuncation
+Welcome to my personal webpage ! 
 ======
-To be completed
-To indluce an image
-![Editing a markdown file for a talk](/images/editing-talk.png)
+
+I am Professor in Planetary Science at Université Paris-Saclay. 
+
+My research focuses on :
+- Ices in the Solar System
+- Quantitative geomorphology
+- Remote Sensing (Hyperspectral data, image, lidar, radar...)
+- Mars
+- Icy moons
+- Mercury
+- the Moon
+
+
+![Editing a markdown file for a talk](/images/GALA.png)
+
 
 For more info
 ------

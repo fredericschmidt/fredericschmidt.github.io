@@ -21,7 +21,6 @@ Work experience
   * CNU Section 35
   * Head of Master in Planetary Science and Space Exploration
 
-
 * 2009-2018: Associate Professor of Planetary Science
   * GEOPS, Université Paris-Saclay, Orsay, France
   * CNU Section 35
@@ -32,6 +31,13 @@ Work experience
 * 2004-2007: PhD
   * IPAG, Grenoble Alpes University, France (ex LPG, Université Joseph Fourier)
 
+Space missions involvement
+======
+* Since 2009, Co-Investigator of OMEGA, Mars Express, ESA
+* Since 2010, Co-Investigator of PFS, Mars Express, ESA
+* Since 2016, Guest-Investigator, ExoMars Trace Gas Orbiter, ESA
+* Since 2024, Co-Investigator of BELA, Bepi-Colombo, ESA
+* Since 2024, Co-Investigator of GALA, JUICE, ESA
 
 Skills
 ======
