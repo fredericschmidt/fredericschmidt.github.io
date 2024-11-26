@@ -27,29 +27,31 @@ redirect_from:
 
 ## PhD students
 
-* Jean Barron (Octobre 2024 - Octobre 2027) encadrant : F. Schmidt (40%), F. Andrieu (30%), A. Doressoundiram, Etude de Mercure avec un lidar à forme d'onde
+* Jean Barron (Octobre 2024 - Septembre 2027) encadrant : F. Schmidt (40%), F. Andrieu (30%), A. Doressoundiram (30%), Etude de Mercure avec un lidar à forme d'onde
 
-* Salman Raza (Octobre 2023 - Octobre 2026) encadrant : F. Schmidt (20%) et A. Le Gall (80%), Etude des propriétés de surface radar de Japet et Vénus
+* Salman Raza (Octobre 2023 - Septembre 2026) encadrant : F. Schmidt (20%) et A. Le Gall (80%), Etude des propriétés de surface radar de Japet et Vénus
 
-* Léonard Martinez (Octobre 2022 - Octobre 2025) encadrant : F. Schmidt (50%) et F. Andrieu (50%), Détection et caractérisation des cratères dans le Système Solaire
+* Nils Foix Colonier (Octobre 2023 - Septembre 2026) encadrant : F. Schmidt (20%) et S. Bourguignon (80%), Démélange spectrale parcimonieux exact
 
-* Cyril Mergny (Octobre 2021 - Octobre 2024) encadrant : F. Schmidt (100%), [Simulation des glaces dans le Système Solaire](https://hal.science/tel-04707017)
+* Léonard Martinez (Octobre 2022 - Septembre 2025) encadrant : F. Schmidt (50%) et F. Andrieu (50%), Détection et caractérisation des cratères dans le Système Solaire
 
-* Guillaume Cruz Mermy (Octobre 2019 - Octobre 2022) soutenance le 9 Décembre 2022, encadrant : F. Schmidt (100%), [Microphysique des glaces du système solaire](https://theses.hal.science/tel-03953094)
+* Cyril Mergny (Octobre 2021 - Septembre 2024) encadrant : F. Schmidt (100%), [Simulation des glaces dans le Système Solaire](https://hal.science/tel-04707017)
 
-* Elodie Lesage (Novembre 2017 - Novembre 2020) soutenance le 25 Novembre 2020, encadrant : F. Schmidt (50%) et H. Massol, (50%), [Cryovolcanisme sur Europe](https://tel.archives-ouvertes.fr/tel-03150075)
+* Guillaume Cruz Mermy (Octobre 2019 - Septembre 2022) soutenance le 9 Décembre 2022, encadrant : F. Schmidt (100%), [Microphysique des glaces du système solaire](https://theses.hal.science/tel-03953094)
 
-* Inès Belgacem (Novembre 2016 - Novembre 2019) soutenance le 15 Novembre 2019, encadrant : F. Schmidt (50%) et G. Jonniaux, AIRBUS, (50%), [Etude photométrique des lunes glacées de Jupiter](https://tel.archives-ouvertes.fr/tel-02421378)
+* Elodie Lesage (Octobre 2017 - Septembre 2020) soutenance le 25 Novembre 2020, encadrant : F. Schmidt (50%) et H. Massol, (50%), [Cryovolcanisme sur Europe](https://tel.archives-ouvertes.fr/tel-03150075)
 
-* Alina Meresescu (Octobre 2015 - Octobre 2018) soutenance le 25 Septembre 2018 encadrant : F. Schmidt (50%) et M. Kowalski (50%), [Inverse Problems of Deconvolution Applied in the Fields of Geosciences and Planetology](https://tel.archives-ouvertes.fr/tel-01982218)
+* Inès Belgacem (Novembre 2016 - Octobre 2019) soutenance le 15 Novembre 2019, encadrant : F. Schmidt (50%) et G. Jonniaux, AIRBUS, (50%), [Etude photométrique des lunes glacées de Jupiter](https://tel.archives-ouvertes.fr/tel-02421378)
 
-* François Landais (Octobre 2014 - Octobre 2017) soutenance le 24 Novembre 2017 (encadrement F. Schmidt), [Lois d’échelles et propriétés statistiques multifractales de la topographie des planètes](https://tel.archives-ouvertes.fr/tel-01699851)
+* Alina Meresescu (Octobre 2015 - Septembre 2018) soutenance le 25 Septembre 2018 encadrant : F. Schmidt (50%) et M. Kowalski (50%), [Inverse Problems of Deconvolution Applied in the Fields of Geosciences and Planetology](https://tel.archives-ouvertes.fr/tel-01982218)
 
-* François Andrieu (Octobre 2012 - Octobre 2015) soutenance le 11 Décembre 2015 (encadrement F. Schmidt), [Caractérisation des surfaces glacées de Mars par imagerie hyperspectrale : inversion du transfert radiatif](https://tel.archives-ouvertes.fr/tel-01328824)
+* François Landais (Octobre 2014 - Septembre 2017) soutenance le 24 Novembre 2017 (encadrement F. Schmidt), [Lois d’échelles et propriétés statistiques multifractales de la topographie des planètes](https://tel.archives-ouvertes.fr/tel-01699851)
+
+* François Andrieu (Octobre 2012 - Septembre 2015) soutenance le 11 Décembre 2015 (encadrement F. Schmidt), [Caractérisation des surfaces glacées de Mars par imagerie hyperspectrale : inversion du transfert radiatif](https://tel.archives-ouvertes.fr/tel-01328824)
 
 * Maxime Legendre (Janvier 2012 - Janvier 2015) soutenance le mercredi 22 Avril 2015 (co-encadrement F. Schmidt à 30% avec S. Mousssaoui (30%) et J. Idier (40%)), [Accélération algorithmique et matérielle des méthodes d’estimation de cartes d’abondances en imagerie hyperspectrale](https://tel.archives-ouvertes.fr/tel-01360464)
 
-* Jennifer Fernando (Octobre 2011 - Octobre 2014) soutenance le 4 Novembre 2014 (encadrement F. Schmidt), [Caractérisation des propriétés physiques de la surface de Mars à partir de mesures spectro-photométriques orbitales](https://tel.archives-ouvertes.fr/tel-01152136)
+* Jennifer Fernando (Octobre 2011 - Septembre 2014) soutenance le 4 Novembre 2014 (encadrement F. Schmidt), [Caractérisation des propriétés physiques de la surface de Mars à partir de mesures spectro-photométriques orbitales](https://tel.archives-ouvertes.fr/tel-01152136)
 
 * Irina Shatalina (invité à IDES Avril-Août 2012) : Signal  Treatment  for  Planetary  Fourier  Spectrometer, Doctorante du Politecnico Di Milano
 

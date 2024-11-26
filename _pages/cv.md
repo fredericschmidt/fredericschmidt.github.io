@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Habilitation in Planetary Science, Université Paris-Saclay, 2014 (VOLATILES EXCHANGES BETWEEN SURFACE AND ATMOSPHERE ON MARS)
-* Ph.D in Planetary Science, Grenoble Alpes University, 2007 (CLASSIFICATION OF THE MARTIAN SURFACE USING OMEGA HYPERSPECTRAL IMAGING. STUDY OF THE CO2 AND H2O SEASONNAL DEPOSITS)
+* Habilitation in Planetary Science, Université Paris-Saclay, 2014 ([VOLATILES EXCHANGES BETWEEN SURFACE AND ATMOSPHERE ON MARS](https://tel.archives-ouvertes.fr/tel-01085029))
+* Ph.D in Planetary Science, Grenoble Alpes University, 2007 ([CLASSIFICATION OF THE MARTIAN SURFACE USING OMEGA HYPERSPECTRAL IMAGING. STUDY OF THE CO2 AND H2O SEASONNAL DEPOSITS](https://tel.archives-ouvertes.fr/tel-00192298))
 
 Work experience
 ======
@@ -74,4 +74,12 @@ Teaching
   
 Service and leadership
 ======
-* Currently scientific head of the Planetary Surface Pole (CNES/CNRS-INSU)
+* Currently scientific head of the [Planetary Surface PDSSP](https://pdssp.github.io/) (CNES/CNRS-INSU)
+* Member of the Institut Universitaire de France (Junior chair in 2021-2026)
+* Member of the Scientific Council of the French National Planetology Program (INSU/CNRS) in 2014-2018 and 2019-2022
+* Member Scientific Council of the Paris-Saclay Space Center since 2022
+* Elected member of Scientific Council of the Paris-Saclay Graduate School in 2021-2026
+* Elected member of the Consultative Commission of Experts of the University (CCSU) in Geoscience section 35-36 in 2010-2018 and 2022-2024
+* Member of the Doctorate School SMEMAG (2020-2024)
+* Head of the Master 2, Planetary science of the University Paris-Saclay since 2010 and coordination at the Ile de France regional level since 2015
+* Reviewer for: Icarus, IEEE Transaction on Geosciences and Remote Sensing, Planetary and Space Science, Earth and Planetary Science Letters, Journal of Geophysical Research,...
