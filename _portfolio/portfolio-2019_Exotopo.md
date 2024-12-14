@@ -28,6 +28,3 @@ Public outreach in French:
 [The Conversation](https://theconversation.com/prets-a-vous-poser-sur-une-exoplanete-111781)
 [Emission radio RFI “Autour de la question"](http://www.rfi.fr/emission/20190318-comment-imaginer-univers)
 [News INSU](http://www.insu.cnrs.fr/node/9715)
-
-
-# /images/Exotopo_Video_2.mov
