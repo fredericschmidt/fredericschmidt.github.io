@@ -33,6 +33,7 @@ En Français
 * [Lancement de la mission Europa Clipper, 11 octobre 2024, The Conversation](https://theconversation.com/europa-clipper-une-mission-ambitieuse-pour-caracteriser-lhabitabilite-dune-lune-de-jupiter-240745)
 * [Du givre sur les sommets martiens, 10 Juin 2024, The Conversation](https://theconversation.com/du-givre-deau-au-sommet-des-volcans-martiens-une-toute-nouvelle-decouverte-227404)
 * [Des zone de cisaillements sur Mars, 17 Novembre 2022, The Conversation](https://theconversation.com/mars-est-asymetrique-on-comprend-maintenant-mieux-pourquoi-193419)
+* [De l’eau sur Mars ? Mieux, c’était un océan..., 17 Janvier 2022, The Conversation](https://theconversation.com/de-leau-sur-mars-mieux-cetait-un-ocean-175084)
 * [Les mystérieux geysers d’Europe, lune glacée de Jupiter, 8 Décembre 2019, The Conversation](https://theconversation.com/les-mysterieux-geysers-deurope-lune-glacee-de-jupiter-127860)
 * [Prêt à vous poser sur une exoplanète ?, 16 Septembre 2019, The Conversation](https://theconversation.com/prets-a-vous-poser-sur-une-exoplanete-111781)
 
