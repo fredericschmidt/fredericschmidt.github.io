@@ -22,12 +22,10 @@ My research focuses on :
 - Mercury
 - the Moon
 
-
 ![Editing a markdown file for a talk](/images/GALA.png)
 
+[My webpage at the laboratory (mostly in French)](https://www.geops.universite-paris-saclay.fr/user/frederic.schmidt/)
 
-For more info
-------
 
 Special thanks
 ======
