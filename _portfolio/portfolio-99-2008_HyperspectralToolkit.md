@@ -1,6 +1,6 @@
 ---
 title: "Hyperspectral toolkit"
-excerpt: "South polar cap of Mars<br/><img src='/images/hyperspectral-toolkit.png'>"
+excerpt: "South polar cap of Mars - 2007<br/><img src='/images/hyperspectral-toolkit.png'>"
 collection: portfolio
 ---
 
