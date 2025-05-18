@@ -1,6 +1,6 @@
 ---
 title: "Topography of exoplanet"
-excerpt: "Synthetic realistic topography - January 2019<br/><img src='/images/Exotopo.png'>"
+excerpt: "Synthetic realistic topography - January 2019<br/><img src='/images/Exotopo.png' width=800>"
 collection: portfolio
 ---
 

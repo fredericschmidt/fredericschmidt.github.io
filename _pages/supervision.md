@@ -10,6 +10,8 @@ redirect_from:
 
 ## Post-doctorate :
 
+* Cyril Mergny (Octobre 2024 - Mai 2025) Simulation des glaces dans le Système Solaire
+
 * Zongyu Zhang (Octobre 2023 - Avril 2025) Etude des propriétés de surface radar de Mars à l'aide de la mission Zhurong, chercheur invité-doctorant
 
 * Guillaume Cruz Mermy (Novembre 2022 - Décembre 2022) Glaces de Mars et Europe
@@ -26,6 +28,8 @@ redirect_from:
 
 
 ## PhD students
+
+* Hugo Lancery (Mai 2025 - Avril 2028) encadrant : F. Andrieu (40%), F. Schmidt (30%), E Vannier (30%), Photométrie de la Lune
 
 * Jean Barron (Octobre 2024 - Septembre 2027) encadrant : F. Schmidt (40%), F. Andrieu (30%), A. Doressoundiram (30%), Etude de Mercure avec un lidar à forme d'onde
 
