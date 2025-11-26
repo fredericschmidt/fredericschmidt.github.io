@@ -10,6 +10,8 @@ redirect_from:
 
 ## Post-doctorate :
 
+* Léonard Martinez (Octobre 2025 - Décembre 2025) Caractérisation des cratères dans le Système Solaire
+
 * Cyril Mergny (Octobre 2024 - Mai 2025) Simulation des glaces dans le Système Solaire
 
 * Zongyu Zhang (Octobre 2023 - Avril 2025) Etude des propriétés de surface radar de Mars à l'aide de la mission Zhurong, chercheur invité-doctorant
@@ -28,6 +30,8 @@ redirect_from:
 
 
 ## PhD students
+
+* Baptiste Desoubrie (Octobre 2025 - Septembre 2028) encadrant : F. Schmidt (100%), Les glaces martiennes
 
 * Hugo Lancery (Mai 2025 - Avril 2028) encadrant : F. Andrieu (40%), F. Schmidt (30%), E Vannier (30%), Photométrie de la Lune
 
@@ -95,7 +99,7 @@ redirect_from:
 
 * Romain Dupire (Avril-Juin 2010) : Etude des spiders et activité des jets de gaz sur Mars, M2 STU Planétologie, UPMC
 
-* Maël GUIHENEUF (Avril-Octobre 2009) : PARALLELIZATION OF ICA MATLAB ALGORITHM - PROFILING: MEMORY & COMPUTATION, ESA, ESAC
+* Maël Guiheneuf (Avril-Octobre 2009) : PARALLELIZATION OF ICA MATLAB ALGORITHM - PROFILING: MEMORY & COMPUTATION, ESA, ESAC
 
 * Hafrùn Hauksdóttir (Mars-Juin 2006) : On the Decomposition of Mars Hyperspectral Data by ICA and Bayesian Positive Source Separation, GIPSA-LAB, INPG Grenoble
 
@@ -211,7 +215,9 @@ redirect_from:
 * Rémi Navarre (Juin 2012) : Traitements de données spectrales de Mars, DUT Génie électrique, IUT Cachan
 
 
-## Internship
+## Internship at high school level
+
+* Gabriel Huber (Février 2025)
 
 * Louis Allard Saint-Albin (Février 2024)
 
