@@ -65,6 +65,11 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 
 ## COMMENTS by Fred
 
+To add a figure with a legend:
+![](/images/image.jpg)
+*legend*
+
+
 main pages are in /_data/navigation.yml to add new pages and remove some sections
 WARNING : the name of the new page should be coherent in navigation.yml and the corresponding page in /_pages/
 
