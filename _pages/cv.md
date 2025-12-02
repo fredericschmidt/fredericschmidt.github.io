@@ -54,12 +54,12 @@ Skills
   * Machine learning (unmixing, blind source separation...)
   * Deep Learning
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+[//]: <> Publications
+[//]: <> ======
+[//]: <>   <ul>{% for post in site.publications reversed %}
+[//]: <>     {% include archive-single-cv.html %}
+[//]: <>   {% endfor %}</ul>
+ 
 [//]: <> Talks
 [//]: <> ======
 [//]: <>   <ul>{% for post in site.talks reversed %}

@@ -7,6 +7,7 @@ redirect_from:
   - /open_science.html
 ---
 
+{% include base_path %}
 
 
 Software
