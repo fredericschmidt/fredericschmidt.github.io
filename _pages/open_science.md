@@ -4,10 +4,10 @@ title: "Open Science"
 permalink: /open_science/
 author_profile: true
 redirect_from: 
-  - /open_science
+  - /open_science.html
 ---
 
-{% include base_path %}
+
 
 Software
 ======

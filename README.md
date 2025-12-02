@@ -62,6 +62,7 @@ If you have bugfixes and enhancements that you would like to submit as a pull re
 
 Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
 
+
 ## COMMENTS by Fred
 
 main pages are in /_data/navigation.yml to add new pages and remove some sections
@@ -70,9 +71,11 @@ New pages are in /_pages/ either in .md, either in .html
 
 Portofolio are automatically added by anti-alphabetic order
 
-comment in mark down, to prevent from compilation : [//]: <>, for instance
-
+comment in mark down, to prevent from compilation : [//]: <>, for instance :
 [//]: <> THIS TEXT IS IGNORED
+
+
+
 
 ---
 <div align="center">
