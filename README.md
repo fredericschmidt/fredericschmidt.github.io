@@ -70,6 +70,9 @@ New pages are in /_pages/ either in .md, either in .html
 
 Portofolio are automatically added by anti-alphabetic order
 
+comment in mark down, to prevent from compilation : [//]: <>, for instance
+
+[//]: <> THIS TEXT IS IGNORED
 
 ---
 <div align="center">

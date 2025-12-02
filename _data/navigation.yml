@@ -14,7 +14,10 @@ main:
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
-    
+
+  - title: "Open Science"
+    url: /openscience/
+        
   - title: "Publications"
     url: /publications/
 
