@@ -66,15 +66,24 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 ## COMMENTS by Fred
 
 main pages are in /_data/navigation.yml to add new pages and remove some sections
+WARNING : the name of the new page should be coherent in navigation.yml and the corresponding page in /_pages/
 
 New pages are in /_pages/ either in .md, either in .html
 
+
 Portofolio are automatically added by anti-alphabetic order
 
-comment in mark down, to prevent from compilation : [//]: <>, for instance :
+comment in mark down, to prevent from compilation : [//]: <> or <!---  --->, for instance :
 [//]: <> THIS TEXT IS IGNORED
 
+<!---
 
+ALL THOSE
+
+LINES
+
+ARE IGNORED 
+--->
 
 
 ---
