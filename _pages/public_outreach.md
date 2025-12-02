@@ -4,7 +4,7 @@ title: "Public Outreach"
 permalink: /public_outreach/
 author_profile: true
 redirect_from: 
-  - /public_outreach.html
+  - /public_outreach
 ---
 
 In English
