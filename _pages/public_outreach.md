@@ -30,7 +30,7 @@ En Français
 
 ## Article
 
-* [La lune glacée Europe, un phare scintillant dans l’infrarouge ? 28 Juillet 2025, The Conversation](https://theconversation.com/du-givre-deau-au-sommet-des-volcans-martiens-une-toute-nouvelle-decouverte-227404)
+* [La lune glacée Europe, un phare scintillant dans l’infrarouge ? 28 Juillet 2025, The Conversation](https://theconversation.com/la-lune-glacee-europe-un-phare-scintillant-dans-linfrarouge-261435)
 * [Lancement de la mission Europa Clipper, 11 octobre 2024, The Conversation](https://theconversation.com/europa-clipper-une-mission-ambitieuse-pour-caracteriser-lhabitabilite-dune-lune-de-jupiter-240745)
 * [Du givre sur les sommets martiens, 10 Juin 2024, The Conversation](https://theconversation.com/du-givre-deau-au-sommet-des-volcans-martiens-une-toute-nouvelle-decouverte-227404)
 * [Des zone de cisaillements sur Mars, 17 Novembre 2022, The Conversation](https://theconversation.com/mars-est-asymetrique-on-comprend-maintenant-mieux-pourquoi-193419)
