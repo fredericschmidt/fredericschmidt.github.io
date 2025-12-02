@@ -1,6 +1,6 @@
 ---
 title: "Martian equatorial flow are dry !"
-excerpt: "RSL topography - March 2017<br/><img src='/images/RSL_cover.png' width=800>"
+excerpt: "RSL topography - March 2017<br/><img src='/images/RSL_cover.jpg' width=800>"
 collection: portfolio
 ---
 
@@ -11,6 +11,10 @@ The most intriguing geomorphological feature of Mars has been re-interpreted to 
 In September 2015, based on several publications, NASA HQ communicated about the discovery of liquid water in form of brines (salty water) at present time, in dark Martian flow features, called Recurrent Slope Linae (or RSL). The habitability of current Mars was dramatically modify by this discovery. Previously, Mars was thought to be favorable for life in the old past only (few billions of years). Since the RSL observation, a significant part of the science community took the briny model as a plausible explanation and many researches were oriented to refine the brines hypothesis and to study the present time habitability (experimental chemistry, laboratory geomorphology, astrobiology,…).
 
 The main argument for liquid water is the fact that RSL are active today in the warmest places on Mars, in the closest conditions to the triple point of water. In addition, spectroscopic signatures of salt were reported but there are only indirect (no formal liquid water detection). Nevertheless, several recent studies demonstrated that the source of water near the equator to explain all observed RSL is highly implausible: neither internal sources nor atmospheric sources are realistic. The origin of those flows were mysterious.
+
+
+![Evolution of RSL at Garni Crater, Valles Marineris, Mars. Left: ESP_029213_1685 at Southern spring (Ls =191.5◦(). Middle: ESP_031059_1685 at Southern spring summer Ls =280.8◦. Right: slope angle map using a stereoscopic digital terrain model. Image MRO, HiRISE, NASA/JPL/University of Arizona](/images/RSL_slope.jpg)
+
 
 The team proposed a new mechanism based on Knudsen pump that is totally dry and only active in the warmest places of Mars today (figure 2). Due to temperature variation in the soil, gas can flow in the porous space. After few minutes of shading from a neighbouring boulder, the gas flow is intense enough to destabilize the granular material and induce a flow.This process has been modeled and the predicted activity is compatible with the observed RSL activity. 
 
