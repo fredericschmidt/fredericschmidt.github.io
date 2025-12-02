@@ -16,7 +16,7 @@ main:
 #    url: /year-archive/
 
   - title: "Open Science"
-    url: /openscience/
+    url: /open_science/
         
   - title: "Publications"
     url: /publications/

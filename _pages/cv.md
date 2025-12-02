@@ -54,6 +54,7 @@ Skills
   * Machine learning (unmixing, blind source separation...)
   * Deep Learning
 
+<---
 [//]: <> Publications
 [//]: <> ======
 [//]: <>   <ul>{% for post in site.publications reversed %}
@@ -65,7 +66,8 @@ Skills
 [//]: <>   <ul>{% for post in site.talks reversed %}
 [//]: <>     {% include archive-single-talk-cv.html  %}
 [//]: <>   {% endfor %}</ul>
-  
+--->  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
