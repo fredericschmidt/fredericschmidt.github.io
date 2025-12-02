@@ -26,7 +26,7 @@ My research focuses on :
 
 ![Editing a markdown file for a talk](/images/GALA.png)
 
-[My webpage at the laboratory (mostly in French)](https://www.geops.universite-paris-saclay.fr/user/frederic.schmidt/)
+[My webpage at the laboratory (mostly in French)](https://geops.geol.u-psud.fr/user/fschmi1/)
 
 
 Special thanks
