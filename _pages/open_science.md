@@ -13,13 +13,13 @@ Software
 
 ## Gitlab
 
-* [Gitlab from my team :](https://gitlab.dsi.universite-paris-saclay.fr/planet)
-* [Personal Gitlab :](https://gitlab.dsi.universite-paris-saclay.fr/frederic.schmidt/linearunmixing)
+* [Gitlab from my team](https://gitlab.dsi.universite-paris-saclay.fr/planet)
+* [Personal Gitlab](https://gitlab.dsi.universite-paris-saclay.fr/frederic.schmidt/linearunmixing)
 
 
 ## Github
 
-* [Personal Github :](https://github.com/fredericschmidt/)
+* [Personal Github](https://github.com/fredericschmidt/)
 
 
 ------
