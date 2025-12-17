@@ -12,7 +12,7 @@ collection: portfolio
 --->
 
 
-<!doctype html>
+[//]: <> <!doctype html>
 <html lang="en">
 <head>
 <meta charset="utf-8" />
@@ -46,9 +46,10 @@ The University of Copenhagen heads an international consortium of Danish and int
 Academic partners include Aalborg University, Aarhus University, and the University of Southern Denmark, as well as DMI, the Polish Academy of Sciences (Polska Akademia Nauk), and the French university Université Paris-Saclay.
 Danish company Space Inventor is the mission’s primary industry partner and will build the satellite and install the instruments and components provided by the mission’s Polish, Dutch, and Slovenian industry partners.
 
-My group will bring a general planetary science expertise, to select the region of interest. In addition, we will be in charge of the software development, especially for the photometric technique.
+My group will bring a general planetary science expertise, to build up the mission and the instrument and to select the lunar target. In addition, we will be in charge of the software development, especially for the photometric technique.
 
 ![](/images/Mani_spacecraft.jpg)
+
 *Artistic view of the Máni spacecraft. Credit: Space Inventor*
 
 
