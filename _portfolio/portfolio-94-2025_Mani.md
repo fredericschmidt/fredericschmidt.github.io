@@ -8,9 +8,9 @@ collection: portfolio
 <video autoplay loop muted playsinline center>
   <source src="https://video.ku.dk/v.ihtml/player.html?source=embed&photo%5fid=119042394&subtitlesOnByDefault=1&defaultLocale=en%22" type="video/mp4" width=800>
 </video>
+*Credit: Space Inventor*
 
-
-
+<!---
 <!doctype html>
 <html lang="en">
 <head>
@@ -32,6 +32,7 @@ collection: portfolio
 </div>
 </body>
 </html>
+--->
 
 
 The Máni Mission is a lunar mission that will use a satellite to map the Moon’s surface with high-resolution images and create detailed 3D maps of the Moon’s terrain. This will make it easier for astronauts and lunar rovers to land and navigate on the Moon. The satellite will orbit the Moon’s north and south poles, which are key areas for the ambition to send astronauts back to the Moon.
@@ -46,6 +47,6 @@ Danish company Space Inventor is the mission’s primary industry partner and wi
 
 My group will bring a general planetary science expertise, to select the region of interest. In addition, we will be in charge of the software development, especially for the photometric technique.
 
-![](/images/Mani_spacecraft.jpg)
-Artistic view of the Máni spacecraft
+![Artistic view of the Máni spacecraft](/images/Mani_spacecraft.jpg)
+
 
