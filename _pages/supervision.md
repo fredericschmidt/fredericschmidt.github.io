@@ -14,8 +14,6 @@ redirect_from:
 
 * Cyril Mergny (Octobre 2024 - Mai 2025) Simulation des glaces dans le Système Solaire
 
-* Zongyu Zhang (Octobre 2023 - Avril 2025) Etude des propriétés de surface radar de Mars à l'aide de la mission Zhurong, chercheur invité-doctorant
-
 * Guillaume Cruz Mermy (Novembre 2022 - Décembre 2022) Glaces de Mars et Europe
 
 * Elodie Lesage (Décembre 2020 - Février 2021) Cryovolcanisme
@@ -41,7 +39,9 @@ redirect_from:
 
 * Nils Foix Colonier (Octobre 2023 - Septembre 2026) encadrant : F. Schmidt (20%) et S. Bourguignon (80%), Démélange spectrale parcimonieux exact
 
-* Léonard Martinez (Octobre 2022 - Septembre 2025) encadrant : F. Schmidt (50%) et F. Andrieu (50%), Détection et caractérisation des cratères dans le Système Solaire
+* Zongyu Zhang (Octobre 2023 - Avril 2025) Etude des propriétés de surface radar de Mars à l'aide de la mission Zhurong, chercheur invité-doctorant
+
+* Léonard Martinez (Octobre 2022 - Septembre 2025) encadrant : F. Schmidt (50%) et F. Andrieu (50%), [Détection et caractérisation des cratères dans le Système Solaire](https://theses.hal.science/tel-05405266v1)
 
 * Cyril Mergny (Octobre 2021 - Septembre 2024) encadrant : F. Schmidt (100%), [Simulation des glaces dans le Système Solaire](https://hal.science/tel-04707017)
 
@@ -61,7 +61,7 @@ redirect_from:
 
 * Jennifer Fernando (Octobre 2011 - Septembre 2014) soutenance le 4 Novembre 2014 (encadrement F. Schmidt), [Caractérisation des propriétés physiques de la surface de Mars à partir de mesures spectro-photométriques orbitales](https://tel.archives-ouvertes.fr/tel-01152136)
 
-* Irina Shatalina (invité à IDES Avril-Août 2012) : Signal  Treatment  for  Planetary  Fourier  Spectrometer, Doctorante du Politecnico Di Milano
+* Irina Shatalina (invité à IDES Avril-Août 2012) : Signal Treatment for Planetary Fourier Spectrometer, Doctorante au Politecnico Di Milano
 
 
 ## post-Master students
