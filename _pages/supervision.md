@@ -37,8 +37,6 @@ redirect_from:
 
 * Salman Raza (Octobre 2023 - Septembre 2026) encadrant : F. Schmidt (20%) et A. Le Gall (80%), Etude des propriétés de surface radar de Japet et Vénus
 
-* Nils Foix Colonier (Octobre 2023 - Septembre 2026) encadrant : F. Schmidt (20%) et S. Bourguignon (80%), Démélange spectrale parcimonieux exact
-
 * Zongyu Zhang (Octobre 2023 - Avril 2025) Etude des propriétés de surface radar de Mars à l'aide de la mission Zhurong, chercheur invité-doctorant
 
 * Léonard Martinez (Octobre 2022 - Septembre 2025) encadrant : F. Schmidt (50%) et F. Andrieu (50%), [Détection et caractérisation des cratères dans le Système Solaire](https://theses.hal.science/tel-05405266v1)
