@@ -39,9 +39,9 @@ redirect_from:
 
 * Zongyu Zhang (Octobre 2023 - Avril 2025), soutenance le 12 Décembre 2025 à l'Académie des Sciences Chinoise - Pékin, Etude des propriétés de surface radar de Mars à l'aide de la mission Zhurong, chercheur invité-doctorant à GEOPS
 
-*  Léonard Martinez (Octobre 2022 - Septembre 2025) soutenance le 6 Octobre 2025 encadrant : F. Schmidt (50%) et F. Andrieu (50%), [Détection et caractérisation des cratères dans le Système Solaire](https://theses.hal.science/tel-05405266v1)
+* Léonard Martinez (Octobre 2022 - Septembre 2025) soutenance le 6 Octobre 2025 encadrant : F. Schmidt (50%) et F. Andrieu (50%), [Détection et caractérisation des cratères dans le Système Solaire](https://theses.hal.science/tel-05405266v1)
 
-* 7. Cyril Mergny (Octobre 2021 - Septembre 2024) soutenance le 29 Août 2024, encadrant : F. Schmidt (100%), [Simulation des glaces dans le Système Solaire](https://hal.science/tel-04707017)
+* Cyril Mergny (Octobre 2021 - Septembre 2024) soutenance le 29 Août 2024, encadrant : F. Schmidt (100%), [Simulation des glaces dans le Système Solaire](https://hal.science/tel-04707017)
 
 * Guillaume Cruz Mermy (Octobre 2019 - Septembre 2022) soutenance le 9 Décembre 2022, encadrant : F. Schmidt (100%), [Microphysique des glaces du système solaire](https://theses.hal.science/tel-03953094)
 
