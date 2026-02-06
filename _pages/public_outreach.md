@@ -22,6 +22,11 @@ In English
 * [Sand flow theory could explain water-like streaks on Mars, March 22, 2017, Phys.org](https://phys.org/news/2017-03-sand-theory-water-like-streaks-mars.html)
 * [Mysterious dark streaks on Mars are NOT signs of flowing water: 'Wet patches' may simply be sand flows, March 21, 2017, Daily Mail](http://www.dailymail.co.uk/sciencetech/article-4334250/Red-planet-s-wet-streaks-SAND-instead.html)
 
+
+## Fun
+
+* [3D model of the planets, ready to print !](https://data.ipsl.fr/catalog/srv/eng/catalog.search#/metadata/1e9d58a8-5781-4cd3-b39f-c6d386b7e8cd)
+
 ------
 
 
@@ -53,3 +58,7 @@ En Français
 ## Ils ont parlé de mes travaux....
 
 * [L’eau ne coule pas sur Mars finalement… , 6 Février 2018, Science et Vie](https://www.science-et-vie.com/ciel-et-espace/l-eau-ne-coule-pas-sur-mars-finalement-10429)
+
+## Fun
+
+* [Modèle 3D model des planètes, prêt à imprimer !](https://data.ipsl.fr/catalog/srv/eng/catalog.search#/metadata/1e9d58a8-5781-4cd3-b39f-c6d386b7e8cd)
