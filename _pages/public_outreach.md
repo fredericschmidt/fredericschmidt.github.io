@@ -61,4 +61,4 @@ En Français
 
 ## Fun
 
-* [Modèle 3D model des planètes, prêt à imprimer !](https://data.ipsl.fr/catalog/srv/eng/catalog.search#/metadata/1e9d58a8-5781-4cd3-b39f-c6d386b7e8cd)
+* [Modèle 3D des planètes, prêt à imprimer !](https://data.ipsl.fr/catalog/srv/eng/catalog.search#/metadata/1e9d58a8-5781-4cd3-b39f-c6d386b7e8cd)
