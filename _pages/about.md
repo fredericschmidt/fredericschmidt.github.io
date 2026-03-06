@@ -13,7 +13,8 @@ Welcome to my personal webpage !
 
 I am Professor in Planetary Science at Université Paris-Saclay. 
 
-[//]: <> ## [PhD offer starting in October 2025 !](/files/MarsGroundIce_PhD2025.pdf)
+[//]: <> ## text to ignore
+[PhD offer "Space instrumentation for lunar photometric measurement" starting in October 2026 !](/files/PhD_CalibrationPhotometryMoon.pdf)
 
 My research focuses on :
 - Ices in the Solar System
