@@ -12,8 +12,8 @@ In English
 
 ## Article
 
+* [Making scientific knowledge free for all, 19 July 2026, The Conversation](https://dx.doi.org/10.64628/aak.kg3es5rdg)
 * [Water frost on Mars: on the top of immense volcanoes, a briefly icy landscape, 10 June 2024, The Conversation](https://theconversation.com/water-frost-on-mars-on-the-top-of-immense-volcanoes-a-briefly-icy-landscape-231849)
-
 
 ## They talk about my science...
 
@@ -35,6 +35,7 @@ En Français
 
 ## Article
 
+* [Décapitaliser le savoir scientifique et le rendre accessible à tous : des solutions existent, 1 Juillet 2026, The Conversation](http://dx.doi.org/10.64628/aak.kg3es5rdg)
 * [La lune glacée Europe, un phare scintillant dans l’infrarouge ? 28 Juillet 2025, The Conversation](https://theconversation.com/la-lune-glacee-europe-un-phare-scintillant-dans-linfrarouge-261435)
 * [Lancement de la mission Europa Clipper, 11 octobre 2024, The Conversation](https://theconversation.com/europa-clipper-une-mission-ambitieuse-pour-caracteriser-lhabitabilite-dune-lune-de-jupiter-240745)
 * [Du givre sur les sommets martiens, 10 Juin 2024, The Conversation](https://theconversation.com/du-givre-deau-au-sommet-des-volcans-martiens-une-toute-nouvelle-decouverte-227404)
