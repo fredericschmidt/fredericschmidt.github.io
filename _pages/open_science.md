@@ -11,7 +11,7 @@ redirect_from:
 Promoting open science
 ======
 
-## Gitlab
+## Article
 
 * [Making scientific knowledge free for all, 19 July 2026, The Conversation](https://dx.doi.org/10.64628/aak.kg3es5rdg)
 

@@ -27,6 +27,16 @@ redirect_from:
 * Jennifer Fernando (Octobre 2014 - Septembre 2015) post-doc/demi-ATER : photométrie de Mars
 
 
+
+## Invited PhD students
+
+* Laura Barone (invitée à GEOPS Septembre 2026-February 2027) : Analysis of surrface of icy moons, Doctorante in University of Catania, Italy
+* Zongyu Zhang (Octobre 2023 - Avril 2025), soutenance le 12 Décembre 2025 à l'Académie des Sciences Chinoise - Pékin, Etude des propriétés de surface radar de Mars à l'aide de la mission Zhurong
+
+* Irina Shatalina (invité à IDES Avril-Août 2012) : Signal  Treatment  for  Planetary  Fourier  Spectrometer, Doctorante du Politecnico Di Milano
+
+
+
 ## PhD students
 
 * Baptiste Desoubrie (Octobre 2025 - Septembre 2028) encadrant : F. Schmidt (100%), Les glaces martiennes
@@ -35,9 +45,9 @@ redirect_from:
 
 * Jean Barron (Octobre 2024 - Septembre 2027) encadrant : F. Schmidt (40%), F. Andrieu (30%), A. Doressoundiram (30%), Etude de Mercure avec un lidar à forme d'onde
 
-* Salman Raza (Octobre 2023 - Septembre 2026) encadrant : F. Schmidt (20%) et A. Le Gall (80%), Etude des propriétés de surface radar de Japet et Vénus
+* Nils Foix Colonier (Octobre 2023 - Septembre 2026) encadrant : F. Schmidt (20%) et S. Bourguignon (80%), Démélange spectrale parcimonieux exact
 
-* Zongyu Zhang (Octobre 2023 - Avril 2025), soutenance le 12 Décembre 2025 à l'Académie des Sciences Chinoise - Pékin, Etude des propriétés de surface radar de Mars à l'aide de la mission Zhurong, chercheur invité-doctorant à GEOPS
+* Salman Raza (Octobre 2023 - Septembre 2026) encadrant : F. Schmidt (20%) et A. Le Gall (80%), Etude des propriétés de surface radar de Japet et Vénus
 
 * Léonard Martinez (Octobre 2022 - Septembre 2025) soutenance le 6 Octobre 2025 encadrant : F. Schmidt (50%) et F. Andrieu (50%), [Détection et caractérisation des cratères dans le Système Solaire](https://theses.hal.science/tel-05405266v1)
 
@@ -59,12 +69,13 @@ redirect_from:
 
 * Jennifer Fernando (Octobre 2011 - Septembre 2014) soutenance le 4 Novembre 2014 (encadrement F. Schmidt), [Caractérisation des propriétés physiques de la surface de Mars à partir de mesures spectro-photométriques orbitales](https://tel.archives-ouvertes.fr/tel-01152136)
 
-* Irina Shatalina (invité à IDES Avril-Août 2012) : Signal Treatment for Planetary Fourier Spectrometer, Doctorante au Politecnico Di Milano
 
 
 ## post-Master students
 
 * Hugo Lancery (Octobre-Décembre 2024) : Photométrie de la Lune
+
+* Cyril Mergny (Octobre 2020 - Mars 2021) : Experimental investigation of Europa icy lithosphere (encadrement principal Anne Davaille, FAST)
 
 * Luca Capriotti (Septembre-Décembre 2012) : GPU Implementation of OMEGA unmixing, ESA, ESAC, Madrid 
 
@@ -103,6 +114,12 @@ redirect_from:
 
 
 ## Master 1st year students
+
+* Shyamala Bertina (Juin-Juillet 2027), Modélisation de la glace martienne, M1 Physics, UPSAY
+
+* Elias Alaoui Chrifi (Mai-Juillet 2026) Modélisation de l’évolution des paysages planétaires de la surface de Mercure, M1 Mécanique, ENS-Paris-Saclay
+
+* Tom Charreteur (Avril-Juin 2026) Etude de la surface de Mercure, M1 Géoscience, SU
 
 * Daria Prokofeva (Mai-Juin 2024) : Evolution géomorphologique des volcans martiens (co-encadrement avec Pierre Lahitte), M1 Planétologie et Exploration spatiale, UPSAY
 
@@ -187,6 +204,12 @@ redirect_from:
 
 
 ## Licence 2nd year
+
+* Silvio Tre (juin 2026) : Découverte de la Planétologie L2 STU, UPSAY
+
+* Nihar Charif (juin 2026) : Découverte de la Planétologie L2 STU, UPSAY
+
+* Nathan Laurent (juin 2026) : Découverte de la Planétologie L2 STU, UPSAY
 
 * Maxime Soares Correia (juin 2024) : Détection automatique de cratère avec de l’IA, L2 STU, UPSAY
 

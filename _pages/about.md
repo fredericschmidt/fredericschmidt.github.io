@@ -14,7 +14,7 @@ Welcome to my personal webpage !
 I am Professor in Planetary Science at Université Paris-Saclay. 
 
 [//]: <> ## text to ignore
-[PhD offer "Space instrumentation for lunar photometric measurement" starting in October 2026 !](/files/PhD_CalibrationPhotometryMoon.pdf)
+[Internship  offer "Ice microtexture in the Solar System by spectroscopy" starting in spring 2027 !](/files/Schmidt_Microtexture.pdf)
 
 My research focuses on :
 - Ices in the Solar System
